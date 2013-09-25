@@ -1,4 +1,4 @@
-# ConfCast #
+﻿# ConfCast #
 A more intuitive conferencing platform.
 
 ConfCast is essentially an authorization wrapper for the existing [Google
@@ -41,3 +41,5 @@ two flavors:
 
 * Debian package for installation on your own server(s)
 * Appengine
+
++foobar example
