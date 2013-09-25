@@ -41,5 +41,3 @@ two flavors:
 
 * Debian package for installation on your own server(s)
 * Appengine
-
-+foobar example
